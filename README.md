@@ -1,1 +1,2 @@
-# Movies
+npm i
+npm run dev
